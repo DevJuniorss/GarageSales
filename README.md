@@ -11,7 +11,10 @@ Venda de Suplementos e acessorios de academia.
   1. execute o comando:
    -sudo docker compose up -d --build 
   2. acesse via browser
-   -https://localhost:8443
+   -https://localhost:8443 
+  3. Lembre de popular o Banco de dados.
+  (Removido por decisoes da gerencia)
+
 - Acessando via AWS
 (Condicional de que o Lab AWS esteja ativado)
   - [Aplication Link by Elastic IP](https://44.218.176.238:8443)
@@ -24,13 +27,7 @@ Venda de Suplementos e acessorios de academia.
 - CD (esta funcionando)
   
 # Tech's
-
-- [AWS EC2](![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white))
-- [AWS S4](![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white))
-- [React](![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB))
-- Java Spring Boot
-- Node.js
-- Docker
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # Author
 
