@@ -30,6 +30,6 @@ INSERT INTO clothes (id, sex, dresstype, image, price, arrival, discount) VALUES
 
 -- Pré-treino Panic
 -- (117, 'SUPPLEMENT', 'Pré-Treino Panic - 300g', 'kerozennelogo.s3.us-east-1.amazonaws.com/panic.png', 'R$ 79,90', 'new', 10),
-(118, 'SUPPLEMENT', 'Pré-Treino Panic - 300g', 'kerozennelogo.s3.us-east-1.amazonaws.com/panic1.png', 'R$ 109,90', 'new', 5),
+(118, 'SUPPLEMENT', 'Pré-Treino Panic - 300g', 'kerozennelogo.s3.us-east-1.amazonaws.com/panic1.png', 'R$ 109,90', 'new', 5);
 -- (119, 'SUPPLEMENT', 'Pré-Treino Panic - 300g', 'kerozennelogo.s3.us-east-1.amazonaws.com/panic2.png', 'R$ 79,90', 'old', 20),
 -- (120, 'SUPPLEMENT', 'Pré-Treino Panic - 300g', 'kerozennelogo.s3.us-east-1.amazonaws.com/panic3.png', 'R$ 79,90', 'old', 15);
