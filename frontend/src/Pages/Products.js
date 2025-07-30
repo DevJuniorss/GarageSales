@@ -15,7 +15,7 @@ import Modal from '@material-ui/core/Modal';
 
 const useStyles = makeStyles( (theme) => ({
     heading:{
-        fontFamily:"Lobster,cursive",
+        fontFamily:'Bebas Neue, sans-serif',
         color:"#000000",
 
     },

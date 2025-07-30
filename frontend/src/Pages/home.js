@@ -16,7 +16,7 @@ import axios from 'axios';
 
 const useStyles = makeStyles( (theme) => ({
     heading:{
-        fontFamily:"Lobster,cursive",
+        fontFamily: 'Bebas Neue, sans-serif',
         color:"#000000",
 
     },
@@ -121,7 +121,7 @@ const Home = (props) => {
                     
                     
                         <Grid xs={12} sm={6} item>
-                            <Typography variant="h3" align="center" className={classes.heading} >Find the best suplement in our region</Typography>
+                            <Typography variant="h3" style={{fontFamily: 'Bebas Neue, sans-serif', color:"#000000"}} align="center" className={classes.heading} >Find the best suplement in our region</Typography>
                             <Typography variant="subtitle1" align="center" color="textSecondary" gutterBottom={true} >Shop for the new avaliable venons at never seen prices</Typography>
                         </Grid>
                     
@@ -132,21 +132,21 @@ const Home = (props) => {
                         <img src={`https://${data.data[3].image}`} className={classes.image} />                    
                     </Grid>
                     <Grid xs={12} sm={2} item>
-                        <Typography variant="h4" color="secondary">Grab the latest pre workout</Typography>
+                        <Typography variant="h4" color="#000000">Grab the latest pre workout</Typography>
                     </Grid>
                     
                     <Grid xs={12} sm={4} item>
                         <img src={`https://${data.data[1].image}`} className={classes.image} />                    
                     </Grid>
                     <Grid xs={12} sm={2} item>
-                        <Typography variant="h4" color="secondary">At affordable prices</Typography>
+                        <Typography variant="h4" color="#000000">At affordable prices</Typography>
                     </Grid>
                 </Grid>
                 <Grid container justify="center" alignItems="center" style={{marginTop:"5em"}} direction="column">
                     <Grid item>
                         <Link to="/login">
                             <Typography variant="h2" gutterBottom="true" 
-                            color="secondary">Register now</Typography>
+                            color="#000000">Register now</Typography>
                         </Link>
                     </Grid>
                     <Grid item>

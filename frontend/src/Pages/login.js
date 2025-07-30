@@ -17,7 +17,7 @@ const styles = theme => ({
     },
     root:{
         height : "100vh",
-        backgroundColor :"#fcf2f8"
+        backgroundColor :"#D3D3D3"
     }
 });
 
@@ -78,7 +78,7 @@ function LoginTab(props) {
         return (
             <Grid container justify="center" alignItems="center" spacing={4} className={classes.root}>
                 <Grid container justify="center">
-                    <Typography variant="h1" style={{fontFamily:"Lobster,cursive", color:"#000000"}}>My Suplement Store</Typography>
+                    <Typography variant="h1" style={{fontFamily: 'Bebas Neue, sans-serif', color:"#000000"}}>My Suplement Store</Typography>
                 </Grid>
             <Paper className={classes.padding}>                
                 <div className={classes.margin}>
