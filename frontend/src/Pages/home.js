@@ -89,7 +89,7 @@ const Home = (props) => {
                      <Grid className={classes.end}>
                         <Grid item style={{padding:"2em"}}>
                             
-                            <Typography variant="h5"  color="textSecondary">Welcome {user.email}</Typography>
+                            <Typography variant="h5"  color="textSecondary">Welcome {user.email} NUVEM</Typography>
                             
                         </Grid>
                         <Grid item style={{padding:"2em"}}>
