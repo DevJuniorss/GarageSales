@@ -1,20 +1,22 @@
-# About Garage sale
-
+# My Supplement Store
+Web Loja de suplementos onde voce encontra o as paradas que vao melhorar sua performace
+venda sob varejo em Quixadá e regiao, com varias opcoes e variedades de precos.
 
 # Web Aplication
 
-Avaliable Roles 
-- admin
-- customers
+Venda de Suplementos e acessorios de academia.
 
 # Infra and AWS uses
 
 # CI/CD
 
 # Tech's
-- AWS EC2         - Front-End 
-- AWS EC2/Lambda  - Back-End
-- 
+
+- AWS EC2
+- AWS S4
+- React
+- Java Spring Boot
+- Node.js
 
 # How Run This Project
 
