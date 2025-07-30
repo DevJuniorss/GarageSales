@@ -25,9 +25,9 @@ Venda de Suplementos e acessorios de academia.
   
 # Tech's
 
-- AWS EC2
-- AWS S4
-- React
+- [AWS EC2](![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white))
+- [AWS S4](![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white))
+- [React](![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB))
 - Java Spring Boot
 - Node.js
 - Docker
