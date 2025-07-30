@@ -4,22 +4,18 @@ venda sob varejo em Quixadá e regiao, com varias opcoes e variedades de precos.
 
 Venda de Suplementos e acessorios de academia.
 
-# How Run This Project
+# Como rodar o projetono
 
-- Como rodar o projetono VsCode:
+- Docker:
   apos clone do repositorio abra o terminal
   1. execute o comando:
    -sudo docker compose up -d --build 
   2. acesse via browser
    -https://localhost:8443
-- Acessando via ssh docker
-  - 
 - Acessando via AWS
 (Condicional de que o Lab AWS esteja ativado)
   - [Aplication Link by Elastic IP](https://44.218.176.238:8443)
-  - [Aplication Link by HTTP]
-  - [Aplication Link by HTTPS]
-  - 
+  - [Aplication Link by HTTPS](https://ec2-44-218-176-238.compute-1.amazonaws.com:8443/)
 
 # Infra and AWS uses
 
